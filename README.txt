@@ -14,7 +14,7 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
+AJj
 aj@lkn.io | @ajlkn
 
 
